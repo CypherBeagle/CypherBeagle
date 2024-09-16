@@ -1,1 +1,6 @@
-
+#set file name FTC robotics 2024
+print("Hello world")
+import time
+time.sleep(2.0000000000)
+variable1 = input("What is your username")
+  if variable1 = ("Atticus")
